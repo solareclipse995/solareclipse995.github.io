@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Solar Eclipse</h1>
+<h1 align="center">Hi 👋, I'm Solar Eclipse(Denys)8</h1>
 <h3 align="center">I'm a lazy pseudo-hippogrife developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solareclipse995&label=Profile%20views&color=0e75b6&style=flat" alt="solareclipse995" /> </p>
